@@ -1,0 +1,4 @@
+<resources>
+    <!-- The name of the app -->
+    <string name="app_name">Magic Memo</string>
+</resources>

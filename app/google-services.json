@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100299766066",
+    "project_id": "magic-memo",
+    "storage_bucket": "magic-memo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100299766066:android:5d5a11369c190004213f2b",
+        "android_client_info": {
+          "package_name": "com.filipturcic.magicmemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdA2EzUyRj6redTY9uKxGXM31ojAOH4vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

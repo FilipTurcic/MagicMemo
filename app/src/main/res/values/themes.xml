@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MagicMemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Define the primary color for your theme -->
+        <item name="colorPrimary">@color/my_primary</item>
+
+        <!-- Customize the status bar color -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/my_primary</item>
+    </style>
+
+    <!-- Use the base theme as the parent for your app's theme -->
+    <style name="Theme.MagicMemo" parent="Base.Theme.MagicMemo" />
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary App Color (Dark Blue) -->
+    <color name="my_primary">#0273A6</color>
+
+    <!-- Shades of Blue -->
+    <color name="blue">#01294A</color>
+    <color name="light_blue">#95C2D6</color>
+
+    <!-- Orange -->
+    <color name="orange">#FF9800</color>
+
+    <!-- Shades of Red/Burgundy -->
+    <color name="burgandy">#710202</color>
+    <color name="red">#ED0303</color>
+
+    <!-- Shades of Brown -->
+    <color name="light_brown">#A49875</color>
+
+    <!-- Shades of Green -->
+    <color name="light_green">#CAEDA3</color>
+
+    <!-- Light Grey -->
+    <color name="light_grey">#919290</color>
+
+    <!-- Light Purple -->
+    <color name="light_purple">#C9BAE3</color>
+
+    <!-- Black and White -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
