@@ -52,7 +52,7 @@
         android:id="@+id/add_note_btn"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:src="@drawable/add_large"
+        android:src="@drawable/add"
         android:background="@color/white"
         />
 
